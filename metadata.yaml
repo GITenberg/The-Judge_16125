@@ -1,0 +1,39 @@
+_repo: The-Judge_16125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: West, Rebecca
+    aliases:
+    - Fairfield, Cicily Isabel
+    - Fairfield, Cicely Isabel
+    - Andrews, Cecily Isabel Fairfield
+    - Fairfield, Cecily Isabel
+    birthdate: 1892
+    deathdate: 1983
+    gutenberg_agent_id: '6499'
+    url: http://www.gutenberg.org/2009/agents/6499
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_West
+description: West's brilliant novel-now available as an ebook A romantic tale that
+  traces the generational pulls of love and fidelity At seventeen, Ellen Melville's
+  life is filled with passion for the suffrage movement, her mother, and Edinburgh,
+  if not romance. Then Richard Yaverland, a successful older man, enters her life.
+  Haunted by his own illegitimacy, Richard wants to avert the pain that left his mother
+  a bitter woman even as he kindles a passionate romance. As Ellen and Richard tentatively
+  try on the roles of lovers, the spark of a new relationship will inspire the people
+  around them to consider t.
+gutenberg_issued: '2005-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scotland -- Social life and customs -- 19th century -- Fiction'
+title: The Judge
+url: http://www.gutenberg.org/ebooks/16125
